@@ -11,39 +11,106 @@ section:
 # Your Skills.
 # Give a summary of you each skill in the summary section.
 skills:
-- name: Kubernetes
-  logo: /images/sections/skills/kubernetes.png
-  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing Kubernetes controllers for CRDs."
-  url: "https://kubernetes.io/"
-
-- name: Go Development
-  logo: /images/sections/skills/go.png
-  summary: "Using as the main language for professional development. Capable of writing scalable, testable, and maintainable program."
-  url: "https://golang.org/"
-
 - name: Cloud Computing
   logo: /images/sections/skills/cloud.png
-  summary: "Worked with most of the major clouds such as GCP, AWS, Azure etc."
-
-- name: Docker
-  logo: /images/sections/skills/docker.svg
-  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
-  url: "https://www.docker.com/"
-
-- name: Prometheus
-  logo: /images/sections/skills/prometheus.png
-  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
-  url: "https://prometheus.io/"
-
-- name: Linux
-  logo: /images/sections/skills/linux.png
-  summary: "Using as the main operating system. Capable of writing bash/shell scripts."
+  summary: "Worked with most of the major clouds such as GCP, AWS etc."
 
 - name: Git
   logo: /images/sections/skills/git.png
   summary: "Experienced with git-based development. Mostly, use Github. Also, have experience in working with GitLab."
   url: "https://git-scm.com/"
 
-- name: C++
-  logo: /images/sections/skills/c++.png
-  summary: "Know basic C/C++ programming. Used for contest programming and problem solving."
+- name: Linux
+  logo: /images/sections/skills/linux.png
+  summary: "Capable of using basic and some advanced commands. Also, capable of deeping dive."
+  url: https://www.guru99.com/unix-linux-tutorial.html
+
+- name: NGINX
+  logo: /images/sections/skills/nginx.png
+  summary: "Using as a Reverse Proxy to redirect to target location. Hosting static files as well as any frontend such as ReactJS and Angular."
+  url: https://nginx.org/en/docs/
+
+- name: Apache Tomcat
+  logo: /images/sections/skills/tomcat.png
+  summary: "Using as a deployment for any Spring Boot Applications."
+  url: "http://tomcat.apache.org/"
+
+- name: Docker
+  logo: /images/sections/skills/docker.svg
+  summary: "Write most of the programs as dockerized container. Experienced with multi-stage, multi-arch build process."
+  url: "https://www.docker.com/"
+
+- name: Kubernetes
+  logo: /images/sections/skills/kubernetes.png
+  summary: "Capable of deploying, managing application on Kubernetes. Experienced in writing YAML files."
+  url: "https://kubernetes.io/"
+
+- name: Jenkins
+  logo: /images/sections/skills/jenkins.jpg
+  summary: "Using as a CI/CD to deployment any applications automatically."
+  url: "https://www.jenkins.io/"
+
+- name: Ansible
+  logo: /images/sections/skills/ansible.png
+  summary: "Experienced with writing YAML files to automate tasks to other nodes."
+  url: "https://www.ansible.com/"
+
+- name: Prometheus
+  logo: /images/sections/skills/prometheus.png
+  summary: "Capable of setup, configure Prometheus metrics. Experienced with PromQL, AlertManager. Also, experienced with writing metric exporters."
+  url: "https://prometheus.io/"
+
+- name: Grafana
+  logo: /images/sections/skills/grafana.png
+  summary: "Capable of setup, configure with Prometheus metrics to log, trace, and monitor what happen with beautiful UI."
+  url: "https://grafana.com/"
+
+- name: Basic Web
+  logo: /images/sections/skills/basic_web.jpg
+  summary: "Capable of using HTML, CSS, JavaScript, jQuery to build web applications."
+  url: "https://www.w3schools.com/"
+
+- name: ReactJS
+  logo: /images/sections/skills/reactjs.png
+  summary: "Cool technology. Everyone knows it, learns it, and so do I."
+  url: "https://reactjs.org/"
+
+- name: Angular
+  logo: /images/sections/skills/angular.png
+  summary: "Another cool technology. Not many people know it, learn it, but I do learn and know."
+  url: "https://angular.io/"
+
+- name: Laravel
+  logo: /images/sections/skills/laravel.png
+  summary: "Not so much enjoy working with it. Using its as a backend framework."
+  url: "https://laravel.com/"
+
+- name: Spring Boot
+  logo: /images/sections/skills/spring_boot.png
+  summary: "Enormous old technology, capable of making stand alone, production grade applications. Using its advanced concepts such as OAuth, Microservices, and Deployment."
+  url: "https://spring.io/projects/spring-boot"
+
+- name: MySQL
+  logo: /images/sections/skills/mysql.png
+  summary: "MySQL represents an excellent introduction to modern database technology, as well as being a reliable mainstream database resource for high-volume applications."
+  url: "https://www.mysql.com/"
+
+- name: PostgresQL
+  logo: /images/sections/skills/postgresql.png
+  summary: "PostgreSQL is a powerful, open source object-relational database system that uses and extends the SQL language combined with many features that safely store and scale the most complicated data workloads."
+  url: "https://www.postgresql.org/"
+
+- name: Redis
+  logo: /images/sections/skills/redis.png
+  summary: "Redis is an open source, in-memory data structure store, used as a database, cache, and message broker. I primarily use as a caching."
+  url: "https://redis.io/"
+
+- name: RabbitMQ
+  logo: /images/sections/skills/rabbitmq.png
+  summary: "RabbitMQ is a message-queueing software also known as a message broker or queue manager. Using as a Message Broker."
+  url: "https://www.rabbitmq.com/"
+
+- name: Apache Kafka
+  logo: /images/sections/skills/kafka.png
+  summary: "Using as a Message Broker for Spring Boot, alternative to RabbitMQ."
+  url: "https://kafka.apache.org/"
