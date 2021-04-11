@@ -1,0 +1,73 @@
+# section information
+section:
+  name: About
+  id: about
+  enable: true
+  weight: 1
+  showOnNavbar: true
+  template: sections/about.html
+
+# your designation
+designation: IT Instructor
+# your company information
+company:
+  name: KSHRD.
+  url: "https://kshrd.com.kh"
+
+# your resume. this file path should be relative to you "static" directory
+# resume: "files/resume.pdf"
+
+# a summary about you
+summary: 'Highly motivated, enthusiastic and dedicated instuctor who wants all scholars to be successful learners.
+          Demonstrated ability to consistently individualize instruction, based on students need and interest.'
+
+# your social links
+# give as many as you want. use font-awesome for the icons.
+socialLinks:
+- name: Gmail
+  icon: "fab fa-google"
+  url: "mailto:kimleang.hrd@gmail.com"
+- name: Facebook
+  icon: "fab fa-facebook"
+  url: "https://www.facebook.com/Kimleang.Kea.1998"
+- name: Youtube
+  icon: "fab fa-youtube"
+  url: "https://www.youtube.com/channel/UCVR07aUif69JoXyg8RXGjFA"
+- name: Github
+  icon: "fab fa-github"
+  url: "https://github.com/KimleangSama"
+- name: Linkedin
+  icon: "fab fa-linkedin"
+  url: "https://www.linkedin.com/in/kimleang-kea-0161731b9"
+- name: DevTo
+  icon: "fab fa-dev"
+  url: "https://dev.to/kimleangsama"
+- name: Reddit
+  icon: "fab fa-reddit"
+  url: "https://www.reddit.com/user/Kimleang-Kea"
+- name: Blog
+  icon: "fab fa-blogger"
+  url: "/posts"
+
+# your soft skills
+# give the percentage between 50 to 100 with 5 intervals.
+# currently supported colors: blue, yellow, pink, green, sky, orange
+softSkills:
+- name: Leadership
+  percentage: 85
+  color: blue
+- name: Team Work
+  percentage: 90
+  color: yellow
+- name: Communication
+  percentage: 85
+  color: pink
+- name: Hard Working
+  percentage: 85
+  color: green
+- name: Fast Learner
+  percentage: 85
+  color: sky
+- name: Problem Solving
+  percentage: 85
+  color: orange
