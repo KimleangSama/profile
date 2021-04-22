@@ -2,40 +2,40 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-toha.github.io/kh/categories/</loc>
+    <loc>https://kimleang.cyou/kh/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-toha.github.io/categories/"
+                href="https://kimleang.cyou/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kh"
-                href="https://hugo-toha.github.io/kh/categories/"
+                href="https://kimleang.cyou/kh/categories/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/kh/</loc>
+    <loc>https://kimleang.cyou/kh/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-toha.github.io/"
+                href="https://kimleang.cyou/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kh"
-                href="https://hugo-toha.github.io/kh/"
+                href="https://kimleang.cyou/kh/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/kh/tags/</loc>
+    <loc>https://kimleang.cyou/kh/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-toha.github.io/tags/"
+                href="https://kimleang.cyou/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="kh"
-                href="https://hugo-toha.github.io/kh/tags/"
+                href="https://kimleang.cyou/kh/tags/"
                 />
   </url>
 </urlset>

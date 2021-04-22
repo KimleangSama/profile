@@ -1,4 +1,4 @@
-baseURL: https://hugo-toha.github.io
+baseURL: https://kimleang.cyou
 
 languageCode: en-us
 title: "Kimleang Kea"
@@ -55,7 +55,7 @@ params:
     favicon: /images/site/favicon.png
 
   # GitHub repo of your site
-  gitRepo: https://github.com/hugo-toha/hugo-toha.github.io
+  gitRepo: https://github.com/KimleangSama/profile
   # Default branch of your Git repo
   gitBranch: source
 

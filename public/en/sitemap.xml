@@ -2,71 +2,71 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>https://hugo-toha.github.io/search/</loc>
+    <loc>https://kimleang.cyou/search/</loc>
     <lastmod>2010-06-08T08:06:25+06:00</lastmod>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/introduction/</loc>
+    <loc>https://kimleang.cyou/posts/introduction/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/</loc>
+    <loc>https://kimleang.cyou/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh"
-                href="https://hugo-toha.github.io/kh/"
+                href="https://kimleang.cyou/kh/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-toha.github.io/"
+                href="https://kimleang.cyou/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/markdown-sample/</loc>
+    <loc>https://kimleang.cyou/posts/markdown-sample/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/</loc>
+    <loc>https://kimleang.cyou/posts/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/category/sub-category/rich-content/</loc>
+    <loc>https://kimleang.cyou/posts/category/sub-category/rich-content/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/shortcodes/</loc>
+    <loc>https://kimleang.cyou/posts/shortcodes/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/category/sub-category/</loc>
+    <loc>https://kimleang.cyou/posts/category/sub-category/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/posts/category/</loc>
+    <loc>https://kimleang.cyou/posts/category/</loc>
     <lastmod>2020-06-08T08:06:25+06:00</lastmod>
   </url><url>
-    <loc>https://hugo-toha.github.io/categories/</loc>
+    <loc>https://kimleang.cyou/categories/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh"
-                href="https://hugo-toha.github.io/kh/categories/"
+                href="https://kimleang.cyou/kh/categories/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-toha.github.io/categories/"
+                href="https://kimleang.cyou/categories/"
                 />
   </url><url>
-    <loc>https://hugo-toha.github.io/notes/</loc>
+    <loc>https://kimleang.cyou/notes/</loc>
   </url><url>
-    <loc>https://hugo-toha.github.io/search/</loc>
+    <loc>https://kimleang.cyou/search/</loc>
     <priority>0.1</priority>
   </url><url>
-    <loc>https://hugo-toha.github.io/tags/</loc>
+    <loc>https://kimleang.cyou/tags/</loc>
     <xhtml:link
                 rel="alternate"
                 hreflang="kh"
-                href="https://hugo-toha.github.io/kh/tags/"
+                href="https://kimleang.cyou/kh/tags/"
                 />
     <xhtml:link
                 rel="alternate"
                 hreflang="en"
-                href="https://hugo-toha.github.io/tags/"
+                href="https://kimleang.cyou/tags/"
                 />
   </url>
 </urlset>
